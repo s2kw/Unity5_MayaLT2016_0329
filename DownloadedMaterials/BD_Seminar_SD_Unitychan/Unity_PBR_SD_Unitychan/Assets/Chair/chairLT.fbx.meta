@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 3c89aa370da9a43c4ba254b9c9d836f9
+timeCreated: 1427618037
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chair_001
+    100002: chair_002
+    100004: chair_003
+    100006: chair_004
+    100008: chair_005
+    100010: chair_006
+    100012: chair_007
+    100014: chair_008
+    100016: chair_009
+    100018: chair_010
+    100020: chair_011
+    100022: chair_012
+    100024: chair_013
+    100026: chair_014
+    100028: chair_015
+    100030: //RootNode
+    400000: chair_001
+    400002: chair_002
+    400004: chair_003
+    400006: chair_004
+    400008: chair_005
+    400010: chair_006
+    400012: chair_007
+    400014: chair_008
+    400016: chair_009
+    400018: chair_010
+    400020: chair_011
+    400022: chair_012
+    400024: chair_013
+    400026: chair_014
+    400028: chair_015
+    400030: //RootNode
+    2300000: chair_001
+    2300002: chair_002
+    2300004: chair_003
+    2300006: chair_004
+    2300008: chair_005
+    2300010: chair_006
+    2300012: chair_007
+    2300014: chair_008
+    2300016: chair_009
+    2300018: chair_010
+    2300020: chair_011
+    2300022: chair_012
+    2300024: chair_013
+    2300026: chair_014
+    2300028: chair_015
+    3300000: chair_001
+    3300002: chair_002
+    3300004: chair_003
+    3300006: chair_004
+    3300008: chair_005
+    3300010: chair_006
+    3300012: chair_007
+    3300014: chair_008
+    3300016: chair_009
+    3300018: chair_010
+    3300020: chair_011
+    3300022: chair_012
+    3300024: chair_013
+    3300026: chair_014
+    3300028: chair_015
+    4300000: chair_001
+    4300002: chair_002
+    4300004: chair_003
+    4300006: chair_004
+    4300008: chair_005
+    4300010: chair_006
+    4300012: chair_007
+    4300014: chair_008
+    4300016: chair_009
+    4300018: chair_010
+    4300020: chair_011
+    4300022: chair_012
+    4300024: chair_013
+    4300026: chair_014
+    4300028: chair_015
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
