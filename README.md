@@ -1,8 +1,8 @@
 # Unity5 x Maya LT 2016 x Substance Painter
-- [SDユニティちゃんで学ぶMAYA LT×Unity×SubstancePainterビギナーセミナー イベント用サイト]([http://www.borndigital.co.jp/seminar/3492.html])
+- [SDユニティちゃんで学ぶMAYA LT×Unity×SubstancePainterビギナーセミナー イベント用サイト](http://www.borndigital.co.jp/seminar/3492.html)
 - 場所：ボーンデジタル６Fセミナールーム
 - 2015年3月29日（日曜）
-- 14：00 – 18 :00
+- 14：00 – 18 :00 (延長して19:40)
 
 ### DL素材
 - [Unityちゃんデータ](https://www.dropbox.com/s/4m8zak1qc9wf2e2/BD_Seminar_SD_Unitychan.zip?dl=0)
@@ -193,7 +193,7 @@ CVツールをつかって、線を描くように頂点を生成し、それを
 - 上記と同じでmaterialをwood american cherryを選択する。
 
 ### 金属の部分
-- materialをmetalを選択
+- materialをmetalに設定
 
 ### 環境の設定
 - 先のmayaでおこなった面取りをちゃんとしておかないとエッジのツヤがきれいにでない。
@@ -233,8 +233,9 @@ Referection proveが範囲ないの反射をおこない。
 	- Physical base Rendering の略。物理ベースレンダリング。
 - PBR_SD_unitychan_humanoid を使う
 
-![Rigging1](./MemoImage/Screen_Shot_2015-03-29_at_11_40_02_PM.png)
-![Rigging2](./MemoImage/Screen_Shot_2015-03-29_at_11_43_16_PM.png)
+![Rigging1](./MemoImages/Screen_Shot_2015-03-29_at_11_40_02_PM.png)
+
+![Rigging2](./MemoImages/Screen_Shot_2015-03-29_at_11_43_16_PM.png)
 
 - Assignしたrigを保存しておける
 
@@ -282,6 +283,6 @@ setKeyframe -breakdown 0 -hierarchy none -controlPoints 0 -shape 0 {"CharacterSe
 - [Mel scripting](http://download.autodesk.com/global/docs/maya2014/en_us/index.html)
 
 
--
--
+- 
+- 
 
